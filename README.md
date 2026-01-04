@@ -1,36 +1,65 @@
 <h1 align="center"> Hi there! I'm Pedro 👋</h1>
-<h3 align="center">Backend Software Engineer, passionate about solving complex problems and developing scalable solutions. I seek challenges that allow me to enhance my skills and contribute to innovative projects.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phgodoy&label=Profile%20views&color=0e75b6&style=flat" alt="phgodoy" /> </p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=phgodoy&theme=transparent&no-bg=true" alt="phgodoy" />
-  </a> 
-</p>
+<h3 align="center">
+Backend Software Engineer passionate about solving complex problems and building scalable solutions.
+I work mainly with .NET, focusing on APIs and Clean Architecture, and use Rust to explore low-level concepts and performance.
+I seek challenges that allow me to continuously improve my skills and contribute to innovative projects.
+</h3>
 
 - 🔭 I’m currently working on [submarine-management-system](https://github.com/phgodoy/submarine-management-system)
-
-- 🌱 I’m currently learning **Clean Arquiteture, .NetCore, React**
-
+- 🌱 I’m currently learning **Clean Architecture, .NET, React**, Rust
 - 📫 How to reach me **phgodoy12@gmail.com**
-
-- 🗼 Working for my dream!
+- 🗼 Working every day to achieve my goals!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-henrique-godoy-00515b16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-henrique-godoy-00515b16a/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-godoy-00515b16a/" target="_blank">
+    <img src="assets/icons/social/linkedin.svg" alt="LinkedIn" width="40" height="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- Backend -->
+  <img src="assets/icons/backend/c.svg" width="40" height="40" alt="C" />
+  <img src="assets/icons/backend/csharp.svg" width="40" height="40" alt="C#" />
+  <img src="assets/icons/backend/java.svg" width="40" height="40" alt="Java" />
+  <img src="assets/icons/backend/kotlin.svg" width="40" height="40" alt="Kotlin" />
+  <img src="assets/icons/backend/php.svg" width="40" height="40" alt="PHP" />
+  <img src="assets/icons/backend/nodejs.svg" width="40" height="40" alt="Node.js" />
+  <img src="assets/icons/backend/rust.svg" width="40" height="40" alt="Rust" />
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phgodoy&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="phgodoy" />
+  <!-- Branding / Frameworks -->
+  <img src="assets/icons/branding/codeigniter.svg" width="40" height="40" alt="CodeIgniter" />
+  <img src="assets/icons/branding/laravel.svg" width="40" height="40" alt="Laravel" />
+  <img src="assets/icons/branding/xamarin.svg" width="40" height="40" alt="Xamarin" />
+  <img src="assets/icons/branding/dotnet.svg" width="40" height="40" alt=".NET" />
+
+  <!-- Frontend -->
+  <img src="assets/icons/frontend/react.svg" width="40" height="40" alt="React" />
+  <img src="assets/icons/frontend/html.svg" width="40" height="40" alt="HTML5" />
+  <img src="assets/icons/frontend/css.svg" width="40" height="40" alt="CSS3" />
+  <img src="assets/icons/frontend/sass.svg" width="40" height="40" alt="Sass" />
+
+  <!-- Databases -->
+  <img src="assets/icons/databases/postgresql.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="assets/icons/databases/mysql.svg" width="40" height="40" alt="MySQL" />
+  <img src="assets/icons/databases/mongodb.svg" width="40" height="40" alt="MongoDB" />
+  <img src="assets/icons/databases/mariadb.svg" width="40" height="40" alt="MariaDB" />
+
+  <!-- DevOps -->
+  <img src="assets/icons/devops/docker.svg" width="40" height="40" alt="Docker" />
+  <img src="assets/icons/devops/aws.svg" width="40" height="40" alt="Amazon Web Services" />
+  <img src="assets/icons/devops/jenkins.svg" width="40" height="40" alt="Jenkins" />
+  <img src="assets/icons/devops/linux.svg" width="40" height="40" alt="Linux" />
+  <img src="assets/icons/devops/windows.svg" width="40" height="40" alt="Windows" />
+
+  <!-- Tools -->
+  <img src="assets/icons/tools/git.svg" width="40" height="40" alt="Git" />
+  <img src="assets/icons/tools/bash.svg" width="40" height="40" alt="Bash" />
+  <img src="assets/icons/tools/postman.svg" width="40" height="40" alt="Postman" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phgodoy&show_icons=true&locale=en&bg_color=00000000" alt="phgodoy" />
-</p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 <br />
